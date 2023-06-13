@@ -1,3 +1,4 @@
 digitSize(int) -- function that outputs the digit count of the given integer arg;
 firstDigit(int) -- function that outputs the first digit of the given integer arg;
 power(int, int) -- function that outputs arg1 to the power arg2, where arg2 >= 0;
+PrintDigitsOf(int) -- function that prints the digits of arg in a conventional way;
