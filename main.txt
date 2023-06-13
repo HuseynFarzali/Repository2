@@ -1,1 +1,2 @@
-F1 -- function that outputs the digit count of the given integer arg;
+digitSize(int) -- function that outputs the digit count of the given integer arg;
+firstDigit(int) -- function that outputs the first digit of the given integer arg;
